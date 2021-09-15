@@ -1,6 +1,6 @@
 {
   "name": "aether",
-  "version": "1.0.0",
+  "version": "aOS 1.0.1",
   "description": "A Discord.js library",
   "main": "index.js",
   "scripts": {
