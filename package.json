@@ -12,6 +12,7 @@
   "author": "Jxckson",
   "license": "ISC",
   "dependencies": {
+    "child_process": "^1.0.2",
     "discord.js": "^13.1.0",
     "eventemitter3": "^4.0.7",
     "events": "^3.3.0",
