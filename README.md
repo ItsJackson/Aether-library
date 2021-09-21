@@ -1,4 +1,4 @@
-Aether [![NPM version](https://img.shields.io/npm/v/eris.svg?style=flat-square&color=informational)](https://npmjs.com/package/eris)
+Aether [![NPM version](https://img.shields.io/npm/v/eris.svg?style=flat-square&color=informational)](https://npmjs.com/package/aether-library)
 ====
 
 A Node.js wrapper for interfacing with Discord.
@@ -9,7 +9,7 @@ Installing
 You will need NodeJS 10.4+.
 
 ```
-npm install --no-optional Aether
+npm install --no-optional Aether-library
 ```
 
 If you need voice support, remove the `--no-optional`.
@@ -18,7 +18,7 @@ Ping Pong Example
 -----------------
 
 ```js
-const Aether = require("Aether");
+const Aether = require("Aether-library");
 
 var bot = new Aether("Bot TOKEN");
 // Replace TOKEN with your bot account's token

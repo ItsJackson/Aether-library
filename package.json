@@ -1,6 +1,6 @@
 {
-  "name": "aether",
-  "version": "v0.15.1",
+  "name": "aether-library",
+  "version": "0.15.3",
   "description": "A Discord.js library",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   "author": "Jxckson",
   "license": "ISC",
   "dependencies": {
+    "aether-library": "^0.15.2",
     "child_process": "^1.0.2",
     "discord.js": "^13.1.0",
     "eventemitter3": "^4.0.7",
@@ -21,5 +22,17 @@
     "stream": "^0.0.2",
     "util": "^0.12.4",
     "zlib": "^1.0.5"
-  }
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jxckson-ctrl/Aether-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jxckson-ctrl/Aether-library/issues"
+  },
+  "homepage": "https://github.com/Jxckson-ctrl/Aether-library#readme"
 }
